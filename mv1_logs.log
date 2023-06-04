@@ -1,0 +1,2 @@
+2023-06-03 16:23:55,405 - Remessa enviada: {'id': '123456', 'origem': 'Origem A', 'destino': 'Destino B', 'status': 'Enviado'}
+2023-06-03 16:23:55,405 - Remessa enviada: {'id': '234567', 'origem': 'Origem C', 'destino': 'Destino D', 'status': 'Enviado'}
