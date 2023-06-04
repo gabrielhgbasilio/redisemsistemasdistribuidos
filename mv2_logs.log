@@ -1,0 +1,6 @@
+2023-06-03 16:24:00,620 - Processando remessa: {'id': '123456', 'origem': 'Origem A', 'destino': 'Destino B', 'status': 'Enviado'}
+2023-06-03 16:24:00,621 - Remessa processada: {'id': '123456', 'origem': 'Origem A', 'destino': 'Destino B', 'status': 'Enviado para Destino B'}
+2023-06-03 16:24:00,621 - 
+2023-06-03 16:24:00,621 - Processando remessa: {'id': '234567', 'origem': 'Origem C', 'destino': 'Destino D', 'status': 'Enviado'}
+2023-06-03 16:24:00,621 - Remessa processada: {'id': '234567', 'origem': 'Origem C', 'destino': 'Destino D', 'status': 'Enviado para o endereço cadastrado'}
+2023-06-03 16:24:00,621 - 
